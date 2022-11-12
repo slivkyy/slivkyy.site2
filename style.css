@@ -1,0 +1,67 @@
+#image {
+  background: ;
+  float: left;
+  width: 35%;
+  height: 250px;
+}
+
+#introduction {
+  background: ;
+  float: right;
+  width: 60%;
+  height: px;
+  margin-top: 100px;
+}
+
+#introduction2 {
+   background: #c2ffe3;
+  float: right;
+  color: #9c9c9c;
+  width: 60%;
+  height: px;
+  margin-top: px;
+}
+
+#custom-id {
+  background color: #42b0ff;
+  border: 3px outset #000000;
+}
+
+p {
+  padding: 15px;
+  margin:
+}
+
+#about {
+  background: ;
+  float: left;
+  width: 40%;
+  height: 100px;
+  margin-top: 125px
+}
+
+#content {
+  background: ;
+  float: left;
+  width: 40%;
+  height: 225px;
+  margin-top: 165px;
+}
+
+#contacts {
+  margin-top: -50px;
+  float: left;
+  width: 30%;
+  margin-left: 400px;
+}
+
+#about-me {
+  float: right;
+  width: 11%;
+  margin-top: -36px;
+  margin-right: 385px;
+}
+
+#person {
+  margin-top: 850px;
+}
